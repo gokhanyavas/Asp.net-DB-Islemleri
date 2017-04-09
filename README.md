@@ -2,7 +2,8 @@
 
 Asp.net veritabanı işlemlerini kısayoldan yapmaya olanak sağlayan sınıf.
 
-' public class Veri_islemleri
+'
+public class Veri_islemleri
     {
         /* Bu sinifindaki tum metodlar SQL sorgusu dondurur.
          * Bu sinif yardimiyla veritabani islemleri yapilmaktadir. 
