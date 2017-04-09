@@ -1,6 +1,7 @@
 # Asp.net-DB-Islemleri
 
-Asp.net'te veritabanı işlemlerini kısayoldan yapmaya olanak sağlayan sınıf.
+Asp.net veritabanı işlemlerini kısayoldan yapmaya olanak sağlayan sınıf.
+
 ' public class Veri_islemleri
     {
         /* Bu sinifindaki tum metodlar SQL sorgusu dondurur.
@@ -99,4 +100,5 @@ Asp.net'te veritabanı işlemlerini kısayoldan yapmaya olanak sağlayan sınıf
             //kayit varsa ilk satirin ilk hucresini geriye dondur.
             return table.Rows[0][0].ToString();
         }
-    }'
+    }
+'
